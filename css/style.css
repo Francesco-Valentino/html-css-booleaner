@@ -20,6 +20,11 @@ header {
 h1 {
     font-size: 40px;
     font-weight: bolder;
+    margin-bottom: 0;
+}
+
+#sub-under-main {
+    margin-top: 0;
 }
 
 .subtitle {
