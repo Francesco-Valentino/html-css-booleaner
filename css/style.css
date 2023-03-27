@@ -38,3 +38,7 @@ h1 {
 #blue-text {
     color: blue;
 }
+
+ul {
+    padding-left: 20px;
+}
